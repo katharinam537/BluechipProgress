@@ -1,0 +1,33 @@
+{
+  "originHash" : "c27e58af1c425c8a9d853221fab83c2f0a79cd5a825eaa94d70c1cd3fa6ec482",
+  "pins" : [
+    {
+      "identity" : "foggycolors",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alexdremov/FoggyColors",
+      "state" : {
+        "revision" : "98ba7b491903432eba9aa38ae36cc6267016a9a4",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "b36f2436c2746c32b1f93dcc06ea8b859671a767",
+        "version" : "14.12.1"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c21605e847fc76f66c9d4c49ad0799c26d72edd4"
+      }
+    }
+  ],
+  "version" : 3
+}
