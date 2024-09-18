@@ -10,7 +10,7 @@ workflows:
         bundle_identifier: com.BluechipProgress
       vars:
         BUNDLE_ID: "com.BluechipProgress"
-        XCODE_WORKSPACE: "BCP.xcworkspacee" # <-- Put the name of your Xcode workspace here
+        XCODE_WORKSPACE: "BCP.xcworkspace" # <-- Put the name of your Xcode workspace here
         XCODE_SCHEME: "BCP" # <-- Put the name of your Xcode scheme here
         APP_STORE_APPLE_ID: 6689513597
       xcode: 15.3
